@@ -9,7 +9,7 @@
 - 🎓 Bacharel em Ciência da Computação pela Universidade Federal do Espirito Santo.
 - 💼 Atuando como Digital Process Automation Professional na PENTAGO, com foco em automação e eficiência de processos.
 - 🧠 Foco em Engenharia e Análise de Dados: ETL-ELT, SQL, Python, modelagem dimensional, dashboards.
-- ⚙️ Desenvolvendo projetos práticos com dados (extração, tratamento, modelagem e visualização de dados)
+- ⚙️ Desenvolvendo projetos práticos com dados (extração, transformação, carga, modelagem e visualização de dados)
 
 ## Minhas Skills
 
